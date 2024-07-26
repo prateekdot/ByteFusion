@@ -252,7 +252,7 @@
                 </div>
             </div>
             <div class="below-section mt-5 text-center">
-                <p class="copy-text">2023 All rights reserved. Powered by <a href="https://ByteFusion.com/" target="_blank">ByteFusion</a></p>
+                <p class="copy-text">2024 All rights reserved. Powered by <a href="https://ByteFusion.com/" target="_blank">ByteFusion</a></p>
             </div>
         </div>
     </div>
