@@ -19,7 +19,7 @@
     <!-- //inner banner -->
 
     <!-- about2 section -->
-    <section class="w3l-about2 py-5">
+    <section class="w3l-about2 py-5">lkzsjdlkasdjlkasdj
         <div class="container py-md-5 py-4">
             <div class="row align-items-center">
                 <div class="col-lg-6 about-2-secs-right">
