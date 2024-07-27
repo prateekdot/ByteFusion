@@ -20,7 +20,7 @@
 
     <!-- about2 section -->
     <section class="w3l-about2 py-5">
-        <div class="container py-md-5 py-4">
+        <div class="container py-md-5 py-4"> cnd
             <div class="row align-items-center">
                 <div class="col-lg-6 about-2-secs-right">
                     <img src="assets/images/about.png" alt="" class="img-fluid img-responsive" />
